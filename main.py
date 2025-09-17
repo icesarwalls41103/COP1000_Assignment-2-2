@@ -4,6 +4,6 @@
 
 # Create your variables here
 
-myNewAge = myCurrentAge + (2050 - currentYear)
-print("My Current Age is " + str(myCurrentAge))
+myNewAge = 22 + (2050 - 2025)
+print("My Current Age is 22 " + str(22))
 print("I will be " + str(myNewAge) + " in 2050.")
